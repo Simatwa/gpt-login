@@ -5,7 +5,7 @@ Automate GPT-Login process.
 ## Independencies 
 
 * Selenium
-* Undetected_chromedriver
+* Undetected-chromedriver
 
 ## Pre-requisites
 
@@ -31,7 +31,7 @@ $ sudo bash install.sh
 -  For instance :
 
  ```sh
- $gpt-login example@gmail.com 123456
+ $ gpt-login example@gmail.com 123456
 ```
 
 - For further info run `gpt-login --help` 
@@ -58,4 +58,4 @@ optional arguments:
 
   ## Acknowledgements
 
-  - [x] [Undetected_chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+  - [x] [Undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
