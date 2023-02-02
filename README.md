@@ -1,4 +1,9 @@
 # gpt-login
+<p align="center">
+ <a href="#"><img alt='codestyle' src="https://img.shields.io/static/v1?logo=Black&label=Code style&message=Black&color=black"/></a>
+ <a href="https://wakatime.com/badge/github/Simatwa/gpt-login"><img src="https://wakatime.com/badge/github/Simatwa/gpt-login.svg" alt="wakatime"></a>
+  <a href='#'><img src="https://img.shields.io/static/v1?logo=coverage&label=Coverage&message=95%&color=green"/></a>
+</p>
 
 Automate GPT-Login process.
 
