@@ -2,6 +2,8 @@
 
 Automate GPT-Login process.
 
+![GPT-Browser-interface](assets/screenshot.png)
+
 ## Independencies 
 
 * Selenium
