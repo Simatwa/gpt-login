@@ -8,5 +8,5 @@ if [[ -d '$DIR' ]]; then
 else
   cp main.py /usr/bin/gpt-login
 fi
-echo "gpt-login installation succedeed"
+echo "gpt-login installation succeeded"
 gpt-login -v
