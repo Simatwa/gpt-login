@@ -119,3 +119,5 @@ if __name__ == "__main__":
         exit(logging.info("Stopping program!"))
     except Exception as e:
         logging.critical(start.get_error(e))
+    finally:
+        start.driver.quit()
