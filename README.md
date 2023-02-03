@@ -1,4 +1,4 @@
-# gpt-login
+<h1 align="center">gpt-login</h1>
 <p align="center">
  <a href="#"><img alt='codestyle' src="https://img.shields.io/static/v1?logo=Black&label=Code style&message=Black&color=black"/></a>
  <a href="https://wakatime.com/badge/github/Simatwa/gpt-login"><img src="https://wakatime.com/badge/github/Simatwa/gpt-login.svg" alt="wakatime"></a>
