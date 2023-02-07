@@ -33,7 +33,7 @@ $ sudo bash install.sh
 ```
 # Usage
 
-`gpt-login` followed by [Google](https://google.com) mail-address and finally  the account `password` is enough to get you started.
+Running `gpt-login` in terminal followed by [Google](https://google.com) mail-address and finally  the account `password` is enough to get you started.
 
 -  For instance :
 
