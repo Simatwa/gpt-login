@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 apt-get install python3
+apt-get install git
 pip install -r requirements.txt
+pip install git+https://github.com/Simatwa/undetected-chromedriver.git
 chmod +x main.py
 DIR="/data/data/com.termux/files/usr/bin"
 if [[ -d '$DIR' ]]; then 
